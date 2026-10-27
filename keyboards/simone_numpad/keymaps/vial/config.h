@@ -1,0 +1,5 @@
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0xDD, 0x01, 0x1A, 0x4A, 0xD3, 0x03, 0xA2, 0x4C}
+#define VIAL_INSECURE
+#define COMBO_ONLY_FROM_LAYER 0
